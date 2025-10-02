@@ -1,0 +1,1 @@
+This Power BI project analyzes survey responses from over 600 data analysts, transforming raw data into actionable insights via interactive dashboards and visualizations. The goal is to uncover trends, patterns, and correlations—such as preferred tools, skill levels, challenges faced, and industry trends—through intuitive charts, slicers, and reporting layouts.
